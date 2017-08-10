@@ -1,8 +1,8 @@
-# Scrape-Everthing (SE)
+# Scrape-Everything (SE)
 
 ## Overview
 
-Scrape-Everthing(SE) is a scraping tool written in python, used to scrape links, images, tables and text from a given webpage. It uses selenium webdriver and PhantomJS to extract webpage HTML source. 
+Scrape-Everything(SE) is a scraping tool written in python, used to scrape links, images, tables and text from a given webpage. It uses selenium webdriver and PhantomJS to extract webpage HTML source. 
 
 Lot of improvements need to be made. Any new suggestions and improvements are always welcome. :thumbsup:
 
